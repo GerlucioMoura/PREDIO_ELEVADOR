@@ -1,6 +1,6 @@
-Mestre Gerlúcio 🐐, **README passo a passo** 
+Mestre Gerlúcio 🐐, **README passo a passo PREDIO_ELEVADOR** 
 
-🎯 Estrutura final do projeto
+🎯 Estrutura final do projeto predio elevador
 index.html → estrutura da página, controles e container do prédio
 
 style.css → estilos visuais (prédio, portas, janelas, elevador, animações)
