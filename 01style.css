@@ -1,0 +1,23 @@
+#painel-interno {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  background: #222;
+  border: 2px solid #fff;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+#painel-interno button {
+  background: #555;
+  color: #fff;
+  border: 1px solid #ccc;
+  padding: 3px;
+  cursor: pointer;
+}
+
+#painel-interno button:hover {
+  background: #777;
+}
